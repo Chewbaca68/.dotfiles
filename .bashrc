@@ -13,6 +13,9 @@ if command -v fastfetch &> /dev/null; then
     fi
 fi
 
+#do the setup for github ssh
+eval "$(ssh-agent -s)"
+ssh-add $HOME/.ssh/git
 # Expand the history size
 export HISTFILESIZE=10000
 export HISTSIZE=500
