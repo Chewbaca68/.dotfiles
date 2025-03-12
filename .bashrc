@@ -52,6 +52,8 @@ alias lls='ls -l'                 # List
 #change directory aliases
 alias ..='cd ..'
 
+alias vim="nvim"
+
 alias grep='grep --color=auto'
 alias c='clear'
 PS1='[\u@\h \W]\$ '
