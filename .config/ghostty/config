@@ -18,12 +18,10 @@
 # ==========================
 # # The config file consists of simple key-value pairs,
 # # separated by equals signs.
- font-family = Hack Nerd Font
+#font-family = Hack Nerd Font
 
 #theme = Dark Pastel
- theme = Glacier
-#theme = MonaLisa
-#theme = NightLion v1
+ theme = MonaLisa
 #theme = Popping and Locking
 #theme = Pro
 #theme = Retro
