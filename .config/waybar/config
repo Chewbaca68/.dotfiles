@@ -30,17 +30,17 @@
         "tray",
         "custom/power"
     ],
-    // Modules configuration
-    // "sway/workspaces": {
-    //     "disable-scroll": true,
-    //     "all-outputs": true,
-    //     "warp-on-scroll": false,
-    //     "format": "{name}: {icon}",
-    //     "format-icons": {
-    //         "focused": "",
-    //         "default": ""
-    //     }
-    // },
+   //  Modules configuration
+     "hyprland/workspaces": {
+         "disable-scroll": true,
+        // "all-outputs": true,
+         "warp-on-scroll": false,
+         "format": "{name}: {icon}",
+         "format-icons": {
+             "active": "",
+             "default": ""
+         }
+     },
     "keyboard-state": {
         "numlock": true,
         "capslock": true,
