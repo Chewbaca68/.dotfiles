@@ -53,6 +53,8 @@ alias lls='ls -l'                 # List
 alias ..='cd ..'
 
 alias vim="nvim"
+alias rm="trash"
+
 
 alias grep='grep --color=auto'
 alias c='clear'
