@@ -21,13 +21,13 @@
 font-family = Hack Nerd Font
 
 #theme = Dark Pastel
- theme = MonaLisa
+#theme = MonaLisa
 #theme = Popping and Locking
 #theme = Pro
 #theme = Retro
 #theme = Treehouse
-
-#theme = Treehouse
+ theme = tokyonight
+#theme = rose-pine
 
 # window-padding-x = 2
 #
