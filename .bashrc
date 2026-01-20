@@ -17,7 +17,7 @@ fi
 eval "$(ssh-agent -s)" >/dev/null 2>&1
 ssh-add $HOME/.ssh/git >/dev/null 2>&1
 
-
+export EDITOR=nvim
 # Expand the history size
 export HISTFILESIZE=10000
 export HISTSIZE=500
